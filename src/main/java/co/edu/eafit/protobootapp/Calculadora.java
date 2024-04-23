@@ -4,6 +4,7 @@ package co.edu.eafit.protobootapp;
 public class Calculadora {
 
     public Double cuadrado(Double numero) {
+        system.out.println("Agregando cambios al pipeline");
         return numero * numero;
     }
     
